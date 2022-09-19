@@ -1,5 +1,4 @@
 let count = 0;
-
 function cc(card) {
   // Only change code below this line
  switch (card) {
