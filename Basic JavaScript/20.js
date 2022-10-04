@@ -1,1 +1,0 @@
-const remainder = 17 % 3;
