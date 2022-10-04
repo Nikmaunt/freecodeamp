@@ -1,3 +1,3 @@
-let catName = "Oliver";
+let catName = "Olivia";
 
 let catSound = "Meow!";
